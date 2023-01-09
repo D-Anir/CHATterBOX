@@ -26,12 +26,11 @@ const Messenger = () => {
                     // : <p>No active chat</p>
                     : 
                     <div className='welcome-msg'>
-                        <h1>Hello there!</h1>
+                        <h1>Hello There!</h1>
                         <h2>Welcome to CHATterBOX</h2>
                         <h3>A full stack real time chat application using ReactJS, NodeJS, Express, PostgreSQL and Socket.io.
                             This was a collaborative project where we worked in a team of two.</h3>
                         <h4><strong>Anirban Das and Debadrita Roy</strong></h4>
-                        <h6>and chhana</h6>
                         <h5>Thanks!</h5>
                     </div>    
             }

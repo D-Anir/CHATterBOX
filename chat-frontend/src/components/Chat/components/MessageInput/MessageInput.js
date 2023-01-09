@@ -177,6 +177,7 @@ const MessageInput = ({ chat }) => {
                                     onClick={handleImageUpload}
                                     icon='upload'
                                     className='fa-icon'
+                                    id='upload-icon'
                                 />
                                 <FontAwesomeIcon
                                     onClick={() => setImage('')}
